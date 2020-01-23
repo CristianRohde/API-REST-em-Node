@@ -1,0 +1,16 @@
+[   
+    {
+        "Carro": "Ford",
+        "Cor": "Branca",
+        "Ano": "2013",
+        "Transmisao": "Manual",
+        "Combustivel": "Flex"
+    },
+    {
+        "Carro": "Renault",
+        "Cor": "Preta",
+        "Ano": "2017",
+        "Transmisao": "Automatico",
+        "Combustivel": "Flex/Gas"
+    }
+]
